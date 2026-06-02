@@ -1,0 +1,23 @@
+Types of Inheritance ---
+1-  Single ( jiska maine code push kiya hai )
+Animal -> Dog
+2- Multilevel (child ka child)
+Animal
+   |
+ Mammal
+   |
+  Dog
+3- Multiple---
+Multiple Inheritance (Ek Child, Kai Parents)Jab
+ ek single Child class, 
+ek se zyada Base (Parent) classes se properties aur 
+methods inherit karti hai, toh use Multiple Inheritance 
+kehte hain.Real-world Example: Ek bachha (Child), jisme 
+uske Father aur Mother dono ki qualities aati hain.Structure:
+ Class A + Class B -> Class C
+
+
+4- Hierarchical ( like class car hai aur fir uske two child class petrolcar,deiselcar and electriccar)
+Animal
+ /    \
+Dog   Cat
