@@ -18,6 +18,19 @@ uske Father aur Mother dono ki qualities aati hain.Structure:
 
 
 4- Hierarchical ( like class car hai aur fir uske two child class petrolcar,deiselcar and electriccar)
-Animal
- /    \
-Dog   Cat
+eg -         Animal
+             /    \
+            Dog   Cat
+
+2. Hierarchical Inheritance (Ek Parent, Kai Children)Hierarchical
+ Inheritance iska thik ulta hai. Jab ek single Base (Parent) 
+ class se kai saari Derived (Child) classes banti hain,
+  toh use Hierarchical Inheritance kehte hain. 
+  Yeh ek tree-like structure banata hai.Real-world Example:
+   Ek Father, aur unke teen bacche. 
+   Teeno bacchon ko Father ki property (jaise Surname) milegi,
+    par teeno bacche aapas mein alag honge.Structure:
+    Class A --->  Class B, Class C, Class D
+
+
+types of inheritance completed ...
